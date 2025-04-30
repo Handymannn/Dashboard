@@ -1,18 +1,23 @@
 #Dashboard
 all my analyzing data dashboard 
-
+***
 1. Churn analyzing in Telco business: dataset = Databel.csv
 From the top priority insight as follows:
+
 🔥 Month-to-Month Customers Have the Highest Churn Rate (46.29%)
 → Action: Design incentive programs (e.g., discounts, loyalty rewards) to convert them to annual contracts.
+
 🧊 Competitors Are the Primary Driver of Churn (Over 70%)
 → Action: Enhance customer retention strategies (e.g., price-matching, exclusive perks) to counter competitor offers.
+
 📶 Unlimited Data Users Show High Churn (32.11%)
 → Action: Reassess pricing tiers or add value (e.g., bundled services, premium support) to improve retention.
+
 💳 Paper Check Payers Exhibit Unusually High Churn
 → Action: Promote automated payment methods (e.g., discounts for auto-pay enrollment, SMS reminders).
+
 📞 Excessive Customer Service Calls Induce Churn
-→ Action: Improve self-service options (e.g., AI chatbot, FAQ portal) and optimize call center efficiency.
+→ Action: Improve self-service options (e.g., chatbot, FAQ portal) and optimize call center efficiency.
 
 ##🚀 5 Recommended Strategies to Reduce Churn
 
@@ -45,3 +50,5 @@ From the top priority insight as follows:
 - Encourage switch from Paper Check to Auto-pay with small discounts
 
 - Educate users on convenience and security of digital methods
+
+***
