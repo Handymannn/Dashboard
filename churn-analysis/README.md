@@ -1,7 +1,8 @@
-## Churn analyzing in Telco business 
-<br>
-### dataset = Databel.csv
-### Meta data
+## Churn analyzing in Telco business<br> 
+
+### dataset = Databel.csv<br> 
+
+### Meta data<br>
 1. Customer ID = A unique identifier assigned to each customer
 2. Churn Label = A classification tag in a dataset that indicates whether a customer has churned
 3. Account Length (in months) = Membership duration (Month)
