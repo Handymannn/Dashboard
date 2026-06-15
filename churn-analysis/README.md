@@ -1,4 +1,4 @@
-## Churn analyzing in Telco business<br> 
+## Churn analysis in Telco business<br> 
 
 ### dataset = Databel.csv<br> 
 
